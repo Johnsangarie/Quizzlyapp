@@ -4,3 +4,4 @@ A Quiz app name "Quizzly" that uses trivia questions API and tkinter for Interfa
 * python requests library 
 * Trivia API
 * JSON
+* tkinter 
